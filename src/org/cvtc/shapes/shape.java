@@ -6,11 +6,7 @@ package org.cvtc.shapes;
  */
 public abstract class shape {
 	
-<<<<<<< HEAD
 	protected Dialog dialog;
-
-=======
->>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 	/**
 	 * 
 	 * Surface area method declaration 
@@ -27,7 +23,6 @@ public abstract class shape {
 	 * @return 
 	 */
 	public abstract String render();
-<<<<<<< HEAD
 	
 	public Dialog getDialog() {
 		return dialog;
@@ -40,8 +35,6 @@ public abstract class shape {
 	public shape(Dialog dialog) {
 		setDialog(dialog);
 	}
-=======
->>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 
 }
 

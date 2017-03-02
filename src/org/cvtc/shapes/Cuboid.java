@@ -7,11 +7,7 @@ package org.cvtc.shapes;
  * @author Trevor
  *
  */
-<<<<<<< HEAD
-public class Cuboid extends shape {
-=======
 public class Cuboid extends shape{
->>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 	
 	/**
 	 * The width of the Cuboid
@@ -76,13 +72,8 @@ public class Cuboid extends shape{
 	 * @param depth
 	 * Creates a new instance of a Cuboid
 	 */
-<<<<<<< HEAD
 	public Cuboid(Dialog dialog, float width, float height, float depth) {
-		
 		super(dialog);
-=======
-	public Cuboid(float width, float height, float depth) {
->>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 		
 		/**
 		 * if the width is greater than or equal to zero, set it
