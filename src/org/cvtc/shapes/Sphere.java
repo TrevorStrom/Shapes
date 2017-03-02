@@ -32,9 +32,13 @@ public class Sphere extends shape{
 	 * @param radius
 	 * Create an instance of the Sphere
 	 */
+<<<<<<< HEAD
 	public Sphere(Dialog dialog, float radius) {
 		
 		super(dialog);
+=======
+	public Sphere(float radius) {
+>>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 		
 		/**
 		 * If the radius is greater than or equal to 0, set it

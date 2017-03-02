@@ -52,9 +52,13 @@ public class Cylinder extends shape{
 	 * @param height
 	 * Creates an instance of the Cylinder class
 	 */
+<<<<<<< HEAD
 	public Cylinder(Dialog dialog, float radius, float height) {
 		
 		super(dialog);
+=======
+	public Cylinder(float radius, float height) {
+>>>>>>> e3aae6b206bd4374ff17d507d379fa314ebc977e
 		
 		/**
 		 * If radius is greater than or equal to zero , set it
